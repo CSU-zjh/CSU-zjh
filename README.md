@@ -1,10 +1,6 @@
 [Uploading README (1).md…]()
 # Hi 👋, I'm Zhangjiahang
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jiahang-Jason&label=Profile views&color=0e75b6&style=flat" alt="Jiahang-Jason" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jiahang-Jason" alt="Jiahang-Jason" /></a> </p>
-
 - 🔭 I'm currently working on **Focuses on quantum chemistry and ML to explore new materials. Use computational methods and high-throughput screening to accelerate material discovery and optimization.
 **
 
