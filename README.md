@@ -7,13 +7,11 @@
 
 - 🤝 I'm looking for help with seeking support in machine learning, quantum chemistry, and high-throughput screening, especially with PyTorch and COSMOL, to optimize material discovery and collaborate on AI for science challenges.
 
-- 💬 Ask me about Using VASP and writing scripts for material simulations.
-                  Neural networks for materials discovery and exploration.
-                  High-throughput screening and optimizing computational workflows.
+- 💬 Ask me about using VASP and writing scripts for material simulations.Neural networks for materials discovery and exploration.High-throughput screening and optimizing computational workflows.
 
 - 📫 How to reach me zhangjiahang040323@163.com
 
-- ⚡ Fun fact As an ESTP,I love adventure, thrive on freedom, and enjoy tackling complex problems.
+- ⚡ As an ESTP,I love adventure, thrive on freedom, and enjoy tackling complex problems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
