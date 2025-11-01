@@ -2,21 +2,18 @@
 # Hi 👋, I'm Zhangjiahang
 
 - 🔭 I'm currently working on quantum chemistry and ML to explore new materials. Using computational methods and high-throughput screening to accelerate material discovery and optimization.
-**
 
 - 🌱 I'm currently learning ML,VASP, COSMOL, AIMD and PyTorch
 
-- 👯 I'm looking to collaborate on 量子化学、机器学习和材料科学领域，共享知识、技能和资源，推动固态电池和其他能源材料的发现与优化。开发新算法、优化计算工作流，加速科研进程。
+- 🤝 I'm looking for help with seeking support in machine learning, quantum chemistry, and high-throughput screening, especially with PyTorch and COSMOL, to optimize material discovery and collaborate on AI for science challenges.
 
-- 🤝 I'm looking for help with seeking support in machine learning, quantum chemistry, and high-throughput screening, especially with PyTorch and COSMOL, to optimize material discovery and collaborate on AI for science challenges.**
+- 💬 Ask me about Using VASP and writing scripts for material simulations.
+                  Neural networks for materials discovery and exploration.
+                  High-throughput screening and optimizing computational workflows.
 
-- 💬 Ask me about **Using VASP and writing scripts for material simulations.
-Neural networks for materials discovery and exploration.
-High-throughput screening and optimizing computational workflows.**
+- 📫 How to reach me zhangjiahang040323@163.com
 
-- 📫 How to reach me **zhangjiahang040323@163.com**
-
-- ⚡ Fun fact **As an ESTP,I love adventure, thrive on freedom, and enjoy tackling complex problems.**
+- ⚡ Fun fact As an ESTP,I love adventure, thrive on freedom, and enjoy tackling complex problems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
