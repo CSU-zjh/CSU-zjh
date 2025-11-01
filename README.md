@@ -1,4 +1,3 @@
-[Uploading README (1).md…]()
 # Hi 👋, I'm Zhangjiahang
 
 - 🔭 I'm currently working on quantum chemistry and ML to explore new materials. Using computational methods and high-throughput screening to accelerate material discovery and optimization.
